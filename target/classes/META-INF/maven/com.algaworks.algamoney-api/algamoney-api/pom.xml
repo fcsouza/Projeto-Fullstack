@@ -12,7 +12,7 @@
 	<artifactId>algamoney-api</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>algamoney-api</name>
-	<description>projeto em Spring Angular</description>
+	<description>projeto em spring Angular</description>
 
 	<properties>
 		<java.version>1.8</java.version>
