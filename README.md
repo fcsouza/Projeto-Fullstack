@@ -29,7 +29,7 @@
 ## 🧐 Sobre <a name = "about"></a>
 Todo
  
-### Installing <a name = "installing"></a>
+### :nut_and_bolt: Installing <a name = "installing"></a>
 
 ```
 git clone https://github.com/fcsouza/algamoney-api.git
