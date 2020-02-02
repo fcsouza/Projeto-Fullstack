@@ -3,7 +3,7 @@
  <img width=200px src=".github/logo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Projeto do Curso de Fullstack em Spring e Angular da Algaworks.</h3>
+<h3 align="center">Projeto de Fullstack em Spring e Angular da Algaworks.</h3>
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 ## 🧐 Sobre <a name = "about"></a>
 Todo
  
-### :nut_and_bolt: Installing <a name = "installing"></a>
+### :nut_and_bolt: Instalando <a name = "installing"></a>
 
 ```
 git clone https://github.com/fcsouza/algamoney-api.git
